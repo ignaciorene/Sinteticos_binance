@@ -1,5 +1,3 @@
-#https://www.youtube.com/watch?v=z2ePTq-KTzQ
-
 #INSTALO LIBRERIAS
 import pip
 
